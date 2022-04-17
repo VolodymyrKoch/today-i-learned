@@ -1,19 +1,4 @@
 Hellow world.
-1) git clone https://github.com/VolodymyrKoch/goit-react-hw-01-components.git - клоную свій репозиторій з Git і сворить папку goit-react-hw-01-components
-2) cd I:\React\home_work\goit-react-hw-01-components - зайшов по абсолютному шляху в папку: I:\React\home_work\goit-react-hw-01-components 
-3) npx create-react-app .        - створюю в цій папці "прилажуху" (app-aplication) розмітка реактівського aplication 
-3.1) якшо на компі є вже інстальовано react(з моїми налаштуваннями) в папку, з початковими файлами react то з неї можна скопіювати файли(public, src, .gitingnore, package) в папку з новим проектом 
-4) npm install     -  інсталюємо пакетний менеджер для NOD
-5) npm start - запускаєм сервер для роботи(запускається "РЕАКТОВСЬКИЙ" сервер на localhost:3000)
-6) React Developer Tools - встановити на Хром або Мозілу
------------
-після написання коду робимо деплой на GIT
-7) в package.json - пишу адресу на свій GIT в рядку: homepage:    "https://volodymyrkoch.github.io/goit-react-hw-01-components"
- і в рядку: url:  "git+https://github.com/VolodymyrKoch/goit-react-hw-01-components.git" 
-8) npm run deploy     -  створюєм живий сайт (живу сторінку)
-------
-9) рекомендовано поставити в VSC  плагін: ESLint 
-
 
 GIT
 1)	Створи директорію (наприклад папку module), яку ти залиєш згодом на GIT, і в якій будеш працювати., і створи там перший файл(наприклад readme.txt)
