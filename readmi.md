@@ -41,6 +41,7 @@ git add readme.txt
 git coomit -m “next commit”  
 12)	 Для перевірки комітів використовуй команду git log
 13)	 Додаємо конфігурації до нашого GIT git config --global user.email “you@gmail.com”  та  git config –global user.name “your name”  - щоб встановити ідентифікатор за замовчуванням для ваших облікових записів  omit --global  - щоб встановити ідентифікатор лише в цьому сховищі
+14)	 git restore --staged readmi.txt  - команда яка вказує git, щоб він перестав відслідковувати зміни в файлі readmi.txt  
 
 Основи роботи в командній стрічці:
 
